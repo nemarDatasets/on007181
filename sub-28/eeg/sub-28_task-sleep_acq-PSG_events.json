@@ -1,0 +1,21 @@
+{
+    "onset": {
+        "Description": "Start of epoch in seconds"
+    },
+    "duration": {
+        "Description": "Duration of epoch in seconds (always 30)"
+    },
+    "offset": {
+        "Description": "Offset of marker to epoch start (always 0, artifact of using Fieldtrip BIDS export)"
+    },
+    "stage": {
+        "Description": "Sleep stage of epoch according to the majority vote of 3 expert human scorers, based on PSG data",
+        "Levels": {
+            "W": "Wake",
+            "N1": "Non-REM stage 1",
+            "N2": "Non-REM stage 2",
+            "N3": "Non-REM stage 3 (including former N4)",
+            "REM": "Rapid eye movement sleep"
+        }
+    }
+}
