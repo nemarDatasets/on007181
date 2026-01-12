@@ -1,0 +1,25 @@
+name	type	units
+Fp1-M2	EEG	uV
+Fp2-M1	EEG	uV
+F3-M2	EEG	uV
+F4-M1	EEG	uV
+F7-M2	EEG	uV
+F8-M1	EEG	uV
+C3-M2	EEG	uV
+C4-M1	EEG	uV
+T3-M2	EEG	uV
+T4-M1	EEG	uV
+T5-M2	EEG	uV
+T6-M1	EEG	uV
+P3-M2	EEG	uV
+P4-M1	EEG	uV
+O1-M2	EEG	uV
+O2-M1	EEG	uV
+Fz	EEG	uV
+Cz	EEG	uV
+Pz	EEG	uV
+E1-M2	EOG	uV
+E2-M2	EOG	uV
+Chin 1-Chin 2	EMG	uV
+Chin 3-Chin 2	EMG	uV
+RIP ECG	MISC	mV
