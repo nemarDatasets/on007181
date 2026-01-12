@@ -3,10 +3,10 @@
     "BIDSVersion": "1.8.0",
     "License": "CC0",
     "DatasetType": "raw",
-    "Authors": [
-        "Haolei Bai",
+    "Authors": [        
         "Li Li",
         "Qi Han",
+        "Haolei Bai",
         "Xiaolong Zhang",
         "Yong Liu",        
         "Chao He"
