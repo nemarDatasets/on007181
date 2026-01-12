@@ -1,7 +1,0 @@
-{
-    "TaskName": "sleep",
-    "EEGReference": "linked mastoids",
-    "SamplingFrequency": 1024,
-    "PowerLineFrequency": 50,
-    "SoftwareFilters": {}
-}
