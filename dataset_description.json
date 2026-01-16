@@ -18,5 +18,5 @@
     "ReferencesAndLinks": [
         "Code for data preprocessing and analysis: https://github.com/ellebai/zan-neuro"
     ],
-    "EthicsApproval": ["Medical Ethics Committee of Second Affiliated Hospital of Army Medical University, PLA–approved protocol for human-subjects research involving neuroimaging and electrophysiological data (Approval No. 2021-045-01)."]
+    "EthicsApprovals": ["Medical Ethics Committee of Second Affiliated Hospital of Army Medical University, PLA–approved protocol for human-subjects research involving neuroimaging and electrophysiological data (Approval No. 2021-045-01)."]
 }
