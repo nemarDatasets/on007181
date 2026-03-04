@@ -22,5 +22,6 @@
   "EthicsApprovals": [
     "Medical Ethics Committee of Second Affiliated Hospital of Army Medical University, PLA–approved protocol for human-subjects research involving neuroimaging and electrophysiological data (Approval No. 2021-045-01)."
   ],
-  "DatasetDOI": "10.82901/nemar.on007181"
+  "DatasetDOI": "10.82901/nemar.on007181",
+  "Version": "1.0.0"
 }
