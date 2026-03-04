@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on007181-blue)](https://doi.org/10.82901/nemar.on007181)
+
 # Structural MRI, Resting-state fMRI, and PSG/EEG Dataset of Zoster-associated Neuralgia
 **Summary**  
 This dataset includes anatomical T1-weighted MRI and raw multi-echo resting-state fMRI, as well as PSG data from a study investigating the difference between healthy controls (HC) and zoster-associated neuralgia (ZAN) patients.  
