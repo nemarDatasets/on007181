@@ -1,0 +1,25 @@
+{
+  "version": "2.0",
+  "dataset_id": "on007181",
+  "source": "openneuro",
+  "source_id": "ds007181",
+  "title": "Structural MRI, Resting-state fMRI, and PSG/EEG Dataset of Zoster-associated Neuralgia",
+  "authors": {
+    "Li Li": {},
+    "Qi Han": {},
+    "Haolei Bai": {},
+    "Xiaolong Zhang": {},
+    "Yong Liu": {},
+    "Chao He": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds007181.v1.0.1",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded"
+}
