@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on007181",
-  "source": "openneuro",
-  "source_id": "ds007181",
+  "pipeline_stage": "enriched",
   "title": "Structural MRI, Resting-state fMRI, and PSG/EEG Dataset of Zoster-associated Neuralgia",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Li Li": {},
     "Qi Han": {},
@@ -12,14 +12,66 @@
     "Yong Liu": {},
     "Chao He": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007181.v1.0.1",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on007181",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on007181",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.82901/nemar.on007181",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
     }
   ],
-  "pipeline_stage": "seeded"
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "anat",
+    "func",
+    "eeg"
+  ],
+  "resource_type_specific": "Structural MRI Dataset",
+  "description": "A multimodal neuroimaging dataset comprising structural T1-weighted MRI, resting-state functional MRI, and polysomnographic EEG recordings from 29 healthy controls and 27 zoster-associated neuralgia (ZAN) patients. The dataset investigates neurobiological differences between ZAN patients and healthy controls, with partially overlapping modalities across participants. All anatomical images have been defaced for privacy protection, and sleep stages were manually scored according to American Academy of Sleep Medicine criteria.",
+  "methods_description": "Structural T1-weighted MRI and multi-echo resting-state BOLD fMRI were acquired from participants. Polysomnographic EEG data were recorded with reference to linked mastoids (M1/M2). Sleep stages were manually scored based on PSG data following American Academy of Sleep Medicine (AASM) classification criteria, including Wake, Non-REM stages N1/N2/N3, and REM sleep. Functional files were converted using dcm2niix without preprocessing.",
+  "keywords": [
+    {
+      "term": "fMRI",
+      "subject_scheme": "MeSH"
+    },
+    {
+      "term": "EEG",
+      "subject_scheme": "MeSH"
+    },
+    {
+      "term": "structural MRI",
+      "subject_scheme": "MeSH"
+    },
+    {
+      "term": "Polysomnography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D017286"
+    },
+    {
+      "term": "Neuralgia, Postherpetic",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D051474"
+    },
+    {
+      "term": "resting-state"
+    },
+    {
+      "term": "sleep staging"
+    }
+  ],
+  "source_hash": "fda509bc44fd53932804364bccc67d38affe05d49d3abde4fad4bd632533f1a1"
 }
